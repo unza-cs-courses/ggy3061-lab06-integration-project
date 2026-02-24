@@ -52,12 +52,12 @@ pytest --version
 2. **Run `python scripts/get_variant.py`** to see YOUR unique values
 3. **Complete the tasks** using YOUR values
 4. **Run tests locally:** `pytest tests/visible/ -v`
-5. **Push your code** to see automated test results
+5. **Push your completed code** to GitHub before the deadline
 
 ## Submission
 
 Push your completed code before the deadline. Your score:
-- **Visible tests** (40%): Run on every push
+- **Visible tests** (40%): Run locally using `pytest tests/visible/ -v`; verified during grading
 - **Hidden tests** (30%): Run after deadline - verify YOUR values
 - **Code quality** (20%): Comments, structure
 - **Plagiarism** (-10% max): Similarity detection
